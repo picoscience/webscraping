@@ -8,3 +8,5 @@ self::
 child::
 descendant::
 descendant-or-self::
+
+Para buscar desde una posición [position()<n]
