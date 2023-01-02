@@ -1,1 +1,10 @@
-Veamos a ver si se sube
+HTTP: comunicacion en internet entre cliente-servidor
+
+robots.txt
+
+XPath
+
+self::
+child::
+descendant::
+descendant-or-self::
